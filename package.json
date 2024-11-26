@@ -50,5 +50,10 @@
         "vite-tsconfig-paths": "^5.0.1",
         "vitest": "^2.1.4",
         "vitest-tsconfig-paths": "^3.4.1"
+    },
+    "dependencies": {
+        "@cloudinary/url-gen": "^1.21.0",
+        "cloudinary": "^2.5.1",
+        "dotenv": "^16.4.5"
     }
 }
